@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Fullstack Developer and AI enthusiast currently pursuing my Bachelor of Engineering in Computer Science at Sahaydri College of Engineering and Management. I combine technical expertise with innovative problem-solving skills to build impactful solutions.
+I'm a passionate Fullstack Developer and AI enthusiast who thrives on building practical, impactful solutions. I bring versatility, technical depth, and a problem-solving mindset to everything I work on.
 
 ## 💻 Tech Stack
 
