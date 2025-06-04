@@ -48,39 +48,19 @@ I'm a passionate Fullstack Developer and AI enthusiast currently pursuing my Bac
 
 </div>
 
-## 🏆 Experience
-
-- **Skybrain Neurotech** (Feb 2025 - May 2025)
-  - Web Dev and ML Intern
-  - Worked on a $25,000 funded project integrating EEG emotion classifier AI service
-  - Developed frontend and backend using React.js, gRPC, MetaMask, Docker, AWS
-
-- **PaceWisdom Solutions** (Sep 2024 - Dec 2024)
-  - Python Full Stack Intern
-  - Created "Forge" - an online platform for college students to collaborate
-  - Built with Django, SQLite3, React, and Cloudinary
-
-- **Torsecure Cyber LLP** (Nov 2024 - Jan 2025)
-  - Web Development Intern
-  - Developed "Saanvi" - an AI chatbot for cybersecurity queries
-  - Used Flask, LangChain, Google's Gemini, PineconeDB, and React
-
 ## 🚀 Projects
 
-- **Hustleverse** (Oct 2024 - Present)
-  - Telegram mini app - idle clicker game
-  - Integrated Telegram API and TON Blockchain
+- **[Hustleverse](https://t.me/HustleverseBot)** - Telegram mini app
+  - Idle clicker game with TON Blockchain integration
   - Built with React.js, Node.js, Express, MongoDB, Redis
 
-- **EDUCaiTE V2** (Nov 2024)
-  - Classroom management tool with AI-powered features
-  - Built with Flask, MongoDB, ChromaDB, Next.js, GPT-4o
-  - Features include quiz generation, grading, and class leaderboards
+- **[rejex.fyi](https://rejex.fyi)** - AI-powered regex generator
+  - Converts natural language to regex patterns
+  - Built with Next.js, TailwindCSS, and OpenAI API
 
-- **code2test** (May 2025)
-  - AI-powered test case generator using Google's Gemini API
-  - Converts source code to Robot Framework test cases
-  - Built with Python, Flask, Robot Framework, Selenium
+- **[EDUCaiTE V2](https://youtube.com/watch?v=your-video-id)** - AI-powered classroom tool
+  - Features: Quiz generation, grading, and leaderboards
+  - Tech: Flask, MongoDB, ChromaDB, Next.js, GPT-4o
 
 ## 📫 Connect With Me
 
