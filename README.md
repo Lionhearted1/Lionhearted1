@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aditya Shetty
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&height=100&lines=Fullstack+Developer;AI+Enthusiast;Perpetual+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=00A4EF&center=true&vCenter=true&random=false&width=600&height=100&lines=Fullstack+Developer;AI+Enthusiast;Perpetual+Learner" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
