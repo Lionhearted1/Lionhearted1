@@ -49,17 +49,16 @@ I'm a passionate Fullstack Developer and AI enthusiast who thrives on building p
 </div>
 
 ## 🚀 Projects
+- **[rejex.fyi](https://rejex.fyi)** - Tinder for jobs
+  - Tinder like job application platform with instant responses and feedbacks from companies with the help of LLM
+  - Built with Next.js, Flask, Gemini API, Celery, Redis and MongoDB
 
-- **[Hustleverse](https://t.me/HustleverseBot)** - Telegram mini app
+- **[Hustleverse](https://t.me/hustle_trial_bot/hustleverse?startapp=98Q0LOMF)** - Telegram mini app
   - Idle clicker game with TON Blockchain integration
   - Built with React.js, Node.js, Express, MongoDB, Redis
 
-- **[rejex.fyi](https://rejex.fyi)** - AI-powered regex generator
-  - Converts natural language to regex patterns
-  - Built with Next.js, TailwindCSS, and OpenAI API
-
-- **[EDUCaiTE V2](https://youtube.com/watch?v=your-video-id)** - AI-powered classroom tool
-  - Features: Quiz generation, grading, and leaderboards
+- **[EDUCaiTE V2](https://www.youtube.com/watch?v=m9j1Sp6YzaU)** - AI-powered classroom tool
+  - Features: Quiz generation, Long Answer question generation, grading, feedback and leaderboards
   - Tech: Flask, MongoDB, ChromaDB, Next.js, GPT-4o
 
 ## 📫 Connect With Me
